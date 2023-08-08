@@ -1,0 +1,52 @@
+body {
+  background-image: url("./images/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+  background-repeat: no-repeat;
+}
+
+.gallery img {
+  width: 400px;
+  height: 500px;
+}
+
+p {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: coral;
+}
+
+h2 {
+  text-align: center;
+  color: gold;
+}
+
+h4 {
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+a {
+  text-decoration: none;
+  color: coral;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#menu {
+  width: 94%;
+  height: 40px;
+  background-color: bisque;
+  padding-top: 12px;
+}
+
+#menu a {
+  color: gray;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  text-decoration: none;
+
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#menu a:hover {
+  color: black;
+}
